@@ -1,4 +1,4 @@
-﻿# ==============================================================================
+# ==============================================================================
 # ByteFix Optimizer - Suite Completa con Interfaz Gráfica (WPF)
 # Repositorio: https://github.com/Dxb-2004/ByteFix
 # Uso directo: irm https://raw.githubusercontent.com/Dxb-2004/ByteFix/main/ByteFix.ps1 | iex
